@@ -1,8 +1,3 @@
-###flitrue.github.io
+# 个人博客
 
-
-This is my Home-Page site.
-
-###Usage
-
-![](https://github.com/flitrue/flitrue.github.io/blob/master/img/preview.gif)
+This is my Home-Page site. [demo](https://flitrue.github.io/)
